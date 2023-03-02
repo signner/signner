@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Water.Shen Banner">
+  <img src="preview.jpg" alt="Water.Shen Banner">
 </p>
 
 <h1 align="center">Hi, I'm Water.Shen!</h1>
